@@ -1,0 +1,16 @@
+3d89ef45c521d65bcf3e9cfd52b1a66e *DESCRIPTION
+257f134e5b7b525854dcacf4f74a8619 *LICENSE
+d92904d6f28cacab1a89750528a214fb *NAMESPACE
+896cc6d17c0e44a7447340ca25686091 *NEWS.md
+485afe017222b72e08c744e5b6d3b1ec *R/util.R
+cc2f1d2a0a1056ebe88f334a72da7131 *R/wrapper.R
+d89cd06fde95e6f04a6940d05c365f6b *README.md
+8738dc7f3103f0f023153c3432b92c6d *man/as.data.frame.mandelbrot.Rd
+9be635bbcdf35283a6127f7da8097e3f *man/mandelbrot.Rd
+0128522de04c4b23377e79b529bb1ae3 *man/mandelbrot_palette.Rd
+1a0067c846c000d2ed114f899d2bb206 *man/plot.mandelbrot.Rd
+f6a09c0cbe57a9c624320efab4eabd77 *src/init.c
+cec7a0adcdfac98805dd83b92f971820 *src/mandelbrot.c
+a725d95c304284f08bb7168495a702fc *tests/testthat.R
+aa161246c6188da89beb1e16230a202c *tests/testthat/test_main.R
+5a0bf03e77ec8e78c11a35f6ca96ffda *tests/testthat/test_utils.R
